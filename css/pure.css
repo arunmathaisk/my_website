@@ -1,0 +1,12 @@
+html {
+  max-width: 850px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  background-color: #000000;
+  color: #FFFFFF;
+   }
+a {color: white; }
+h2 {color: skyblue; }
+h1 {color: white; }
+a:hover {color: lightblue; }
